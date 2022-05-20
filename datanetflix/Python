@@ -1,11 +1,14 @@
- #print(“Hello world”)
- #Age=25 Sting
- #Year_at_work=5 float
- #eye_coler=brown string 
- #skin_color=brown float
+print("helloworld")
+name="henry"
+age=25
+Years_at_birth=1.5
+play_basketball=True
+jersey_number="13"
 
- #Car_name=Chevy
- #(y-x=50)
- #My-first_name=John
-
-
+Car_name ="Audi"
+x=50
+First_name="Tierra"
+ 
+print(type(Car_name))
+print(type(x))
+print(type(First_name))
